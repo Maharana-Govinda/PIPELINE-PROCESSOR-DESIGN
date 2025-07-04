@@ -41,3 +41,4 @@ Completing this task taught me about instruction-level parallelism, control unit
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/25aeb4e3-e8fe-40c0-854e-36b38582dbfb)
